@@ -1,0 +1,1170 @@
+[
+    {
+        "link": "https://www.youtube.com/watch?v=Pi1-b50VHB8",
+        "video_topic": "Mapping EER Model Constructs to Relations, focusing on options for Specialization and Generalization.",
+        "irrelevant_segments": [
+            {
+                "timestamps": {
+                    "start": "00:00:00",
+                    "end": "00:00:08"
+                },
+                "segment_description": "The instructor begins the online class by performing a routine audio check to ensure all participants can hear her before starting the lecture.",
+                "subtitle": "Okay, hello, can you hear my voice? Yes ma'am."
+            },
+            {
+                "timestamps": {
+                    "start": "00:01:11",
+                    "end": "00:01:27"
+                },
+                "segment_description": "The instructor provides administrative instructions about the exam, explaining how students should approach questions related to the mapping options if a specific method is not explicitly requested in the problem.",
+                "subtitle": "In the exam, if no option is mentioned, you can use any applicable option. You have to choose one option for each subclass-superclass. And, um, if the option is mentioned, sometimes the option is mentioned, that's why you have to learn all four."
+            },
+            {
+                "timestamps": {
+                    "start": "00:02:03",
+                    "end": "00:02:15"
+                },
+                "segment_description": "The lecture is briefly paused twice as the instructor manages the online meeting by admitting multiple students who were waiting to join the session.",
+                "subtitle": "(No speech, on-screen notifications and system sounds are audible as participants join the meeting.)"
+            },
+            {
+                "timestamps": {
+                    "start": "00:29:15",
+                    "end": "00:29:35"
+                },
+                "segment_description": "The instructor concludes the lecture by providing logistical information about the syllabus, clarifying that the next step in the slides is excluded, and then asks for final questions before ending the session.",
+                "subtitle": "So we have until slide number 28. Any questions? Any overall questions about this? Yes ma'am."
+            }
+        ]
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=AZlvSdQzbk0",
+        "video_topic": "Database Systems: ER-to-Relational Mapping Algorithm",
+        "irrelevant_segments": [
+            {
+                "timestamps": {
+                    "start": "00:00:00",
+                    "end": "00:00:06"
+                },
+                "segment_description": "The segment involves the instructor starting the class session, admitting a late student named Zarin Tasnim from the waiting room, and then transitioning into the day's lesson. This is considered irrelevant as it's a logistical/administrative action, not part of the core academic content.",
+                "subtitle": "Okay. So we will continue chapter seven today. So..."
+            },
+            {
+                "timestamps": {
+                    "start": "00:02:05",
+                    "end": "00:02:11"
+                },
+                "segment_description": "The instructor pauses the lecture to admit another student, MD. Zubayer Hassan, who was waiting to join the call. This is another example of administrative overhead common in online classes and does not contribute to the educational content on ER-to-Relational mapping.",
+                "subtitle": ""
+            },
+            {
+                "timestamps": {
+                    "start": "00:04:33",
+                    "end": "00:04:38"
+                },
+                "segment_description": "The instructor asks the class a question, and a student responds with a non-academic answer ('No ma'am'), which is followed by a brief pause. This segment is a classroom management interaction rather than a content-focused discussion.",
+                "subtitle": "Any question about this? No Ma'am. Okay."
+            },
+            {
+                "timestamps": {
+                    "start": "00:04:53",
+                    "end": "00:04:55"
+                },
+                "segment_description": "This segment captures another administrative pause where the instructor manages the online meeting, possibly admitting another participant, which is irrelevant to the lesson.",
+                "subtitle": ""
+            },
+            {
+                "timestamps": {
+                    "start": "00:05:34",
+                    "end": "00:05:37"
+                },
+                "segment_description": "The instructor interrupts the explanation to admit a student named Sahriar Wahid Galib. This is an administrative task that distracts from the main topic.",
+                "subtitle": ""
+            },
+            {
+                "timestamps": {
+                    "start": "00:05:37",
+                    "end": "00:05:38"
+                },
+                "segment_description": "Immediately after admitting one student, the instructor admits another, Humaira Khan. This is a continuation of the administrative interruption.",
+                "subtitle": ""
+            },
+            {
+                "timestamps": {
+                    "start": "00:11:12",
+                    "end": "00:11:17"
+                },
+                "segment_description": "A system notification 'Your audio setup is causing echo. Click here to get help' appears on the screen, indicating a technical issue during the session. This is a technical difficulty and not part of the educational content.",
+                "subtitle": ""
+            },
+            {
+                "timestamps": {
+                    "start": "00:13:40",
+                    "end": "00:13:42"
+                },
+                "segment_description": "The video shows a notification that Monjur Ahmed has joined the meeting. This is another administrative interruption.",
+                "subtitle": "MONJUR AHMED joined"
+            },
+            {
+                "timestamps": {
+                    "start": "00:15:34",
+                    "end": "00:15:37"
+                },
+                "segment_description": "The instructor pauses the lesson again to admit 'SAHRIAR WAHID GALIB,' who appears to be rejoining the call. This is another logistical interruption.",
+                "subtitle": ""
+            },
+            {
+                "timestamps": {
+                    "start": "00:15:37",
+                    "end": "00:15:38"
+                },
+                "segment_description": "The instructor admits 'HUMAIRA KHAN,' who is also likely rejoining. This continues the administrative break from the main lecture content.",
+                "subtitle": ""
+            },
+            {
+                "timestamps": {
+                    "start": "00:17:22",
+                    "end": "00:17:25"
+                },
+                "segment_description": "The instructor has to stop the lecture flow once more to admit 'MONJUR AHMED' back into the meeting. This is a recurring administrative task.",
+                "subtitle": ""
+            },
+            {
+                "timestamps": {
+                    "start": "00:17:25",
+                    "end": "00:17:26"
+                },
+                "segment_description": "Another student, 'HUMAIRA KHAN,' is readmitted, further fragmenting the educational content delivery with logistical tasks.",
+                "subtitle": ""
+            },
+            {
+                "timestamps": {
+                    "start": "00:21:06",
+                    "end": "00:21:09"
+                },
+                "segment_description": "The flow of the lecture is broken as the instructor admits a student, Humaira Khan, into the ongoing session.",
+                "subtitle": ""
+            },
+            {
+                "timestamps": {
+                    "start": "00:21:11",
+                    "end": "00:21:18"
+                },
+                "segment_description": "After the instructor asks a question, a system notification about an audio echo appears again. This is a mix of classroom management and technical difficulty.",
+                "subtitle": "Any questions?"
+            },
+            {
+                "timestamps": {
+                    "start": "00:21:18",
+                    "end": "00:21:20"
+                },
+                "segment_description": "The instructor concludes the class session for the day. This is a logistical closing statement, not part of the subject matter.",
+                "subtitle": "Okay. So if there are no questions, I will end here today."
+            }
+        ]
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=5y2E4aWclz8",
+        "video_topic": "Functional Dependencies and Normalization for Relational Databases",
+        "irrelevant_segments": [
+            {
+                "timestamps": {
+                    "start": "00:00:03",
+                    "end": "00:00:04"
+                },
+                "segment_description": "The video momentarily switches from the lecture slide to a spreadsheet titled 'Attendance_Marks', indicating a logistical task of taking student attendance which is irrelevant to the academic topic.",
+                "subtitle": "uh chapter 10"
+            },
+            {
+                "timestamps": {
+                    "start": "00:00:48",
+                    "end": "00:00:52"
+                },
+                "segment_description": "The lecture is interrupted by a notification and the logistical process of admitting a student into the online meeting. This administrative action is not part of the educational content.",
+                "subtitle": "[Sound of notification]"
+            },
+            {
+                "timestamps": {
+                    "start": "00:02:02",
+                    "end": "00:02:06"
+                },
+                "segment_description": "The academic lecture is paused again to handle the administrative task of admitting another student into the virtual classroom.",
+                "subtitle": "[Sound of notification]"
+            },
+            {
+                "timestamps": {
+                    "start": "00:03:03",
+                    "end": "00:03:07"
+                },
+                "segment_description": "The instructor briefly switches the shared screen back to the attendance spreadsheet before returning to the main lecture slides, indicating another check on a logistical matter.",
+                "subtitle": ""
+            },
+            {
+                "timestamps": {
+                    "start": "00:03:31",
+                    "end": "00:03:35"
+                },
+                "segment_description": "A student interrupts the lecture with a logistical question, asking the instructor to repeat the last sentence. This pertains to the delivery of the lecture rather than the academic content itself.",
+                "subtitle": "Ma'am, can the last line be repeated again? Okay, so."
+            }
+        ]
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=ou97MYa7QWQ",
+        "video_topic": "Database Normalization and Functional Dependencies",
+        "irrelevant_segments": [
+            {
+                "timestamps": {
+                    "start": "00:39:44",
+                    "end": "00:41:17"
+                },
+                "segment_description": "The instructor concludes the academic lecture and begins taking student attendance. This segment is purely administrative, involving calling names, marking attendance, and discussing reasons for being late, which is unrelated to the topic of database normalization.",
+                "subtitle": "Ma'am, my attendance was missed. Okay. Okay, if there are no more questions, the rest of you can leave. Those whose attendance was missed, please... those who are late, please give your attendance now. Who... whose attendance was missed? MD. HASIBUL HASAN. Okay. Don't be late, because being late is distracting. When you repeatedly... Sumaiya Zaman. Who? Sumaiya Zaman, my attendance was missed. Please don't be late. This is an online class, there's no travel involved. Meherab Mohsin Khan. Okay, you're marked as late today. There's no travel involved in an online class. Why are you late for an online class? Ma'am, the lab was going on. If you have a lab during my class time, why are you in this section? How can you have a lab at the same time as my class? Who was the last name you said? Avishek Nandi. Okay. Anyone else? Any other section? Ma'am, can the recording of the last class be provided, please?"
+            }
+        ]
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=R5UGFPWX48Q",
+        "video_topic": "A comprehensive tutorial on using various MySQL SELECT query keywords and functions for data retrieval.",
+        "irrelevant_segments": [
+            {
+                "timestamps": {
+                    "start": "00:00:03",
+                    "end": "00:01:05"
+                },
+                "segment_description": "The instructor begins the session with logistical details about the practice sheet, clarifies which topics are included in the syllabus, and asks students for feedback on which concepts to explain further. This is a meta-discussion about the class structure rather than the core academic content.",
+                "subtitle": "So, what I was saying is that the keywords in the practice sheet's checklist, if you know how to apply them, then it will be sufficient for you to get good marks in the exam. Okay? And all of them are related to the select query, which means insertion, deletion, update, alter table, those things are not there, okay? With the select query, whatever is related, those are in your theory syllabus. And you have seen all these keywords in your lab. Today I will go through some of them which are a bit complex, I will go through them. If you want me to elaborate more on something or if you want me to explain some keyword then just let me know, okay? If I miss or skip any keyword from here or you want me to explain it, then you let me know and I will explain it, okay? So you have done it in the lab, so I am going a little fast."
+            },
+            {
+                "timestamps": {
+                    "start": "00:31:30",
+                    "end": "00:31:33"
+                },
+                "segment_description": "A brief pause where the instructor checks for student questions before moving on to the next topic.",
+                "subtitle": "Any questions?"
+            },
+            {
+                "timestamps": {
+                    "start": "00:42:44",
+                    "end": "00:43:34"
+                },
+                "segment_description": "The instructor concludes the main lecture and provides administrative instructions on how to use the provided practice sheet and its solutions for self-study. This is followed by a final check for student questions before ending the session.",
+                "subtitle": "So, this is actually it. Our, the final part that will come will be related to these keywords. These practice questions, if you solve them, the solutions are also given. The solutions are one possible solution, meaning there might be multiple solutions for some questions. So, the solutions are a possible solution. You should definitely solve them on your own first and then compare. So yeah, if you practice these, plus if you look at your initial labs that you did, mainly where the select query starts from, if you look at those, it will be enough. Okay? Any questions?"
+            }
+        ]
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=BImr2v8BkeA",
+        "video_topic": "An educational lecture on Indexing and Hashing in Database Systems, covering concepts like index files, B+ trees, static hashing, hash functions, and handling bucket overflows.",
+        "irrelevant_segments": [
+            {
+                "timestamps": {
+                    "start": "00:09:18",
+                    "end": "00:09:23"
+                },
+                "segment_description": "A technical interruption occurs during the lecture. A notification appears on the screen indicating that a new participant is waiting to be admitted to the online meeting, briefly distracting from the presentation.",
+                "subtitle": "(A notification sound is heard as a pop-up appears on screen: Waiting to be admitted. ASEER IQTIDER CHOWDHURY)"
+            },
+            {
+                "timestamps": {
+                    "start": "00:10:43",
+                    "end": "00:11:14"
+                },
+                "segment_description": "A student interrupts the lecture to ask a logistical question regarding how to format answers in an exam, specifically about whether they need to draw pointers from the hash index to the main data table. The instructor's response clarifies exam expectations, which is an administrative matter rather than a discussion of the core academic topic.",
+                "subtitle": "Student: Ma'am, I had another question. We filled up the bucket or handled it if there was an overflow. But in the question, do we have to draw and show it with a pointer to the main table? Instructor: That part is not needed. B+ tree is the same, how to show it with a pointer is not needed. For B+ trees, just insertion is needed. Student: Okay ma'am. Instructor: The main table can be very big, or sometimes the direct data is given. So that part is not required. We mainly want to see your bucket insertion, overflow, and calculation, nothing else. Student: Okay ma'am. Thank you ma'am."
+            },
+            {
+                "timestamps": {
+                    "start": "00:20:26",
+                    "end": "00:20:36"
+                },
+                "segment_description": "The instructor is asking a clarifying question to a student who seems to have a query. This segment is a part of administrative discussion.",
+                "subtitle": "Ma'am, in the question you have shown us for B+ tree... - Yes. What's the problem? - Can you please show us the question for B+ tree?"
+            }
+        ]
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=inZdgH8Wd7g",
+        "video_topic": "Database Indexing with B+ Trees",
+        "irrelevant_segments": [
+            {
+                "timestamps": {
+                    "start": "01:42",
+                    "end": "02:08"
+                },
+                "segment_description": "The lecture is interrupted by a student joining late and asking an administrative question about their attendance, which is unrelated to the academic topic.",
+                "subtitle": "Someone wants to join this call. ZONAYED HOSSAIN SIYAM (outside BRAC UNIVERSITY) joined. SIYAM can now join this meeting. Ma'am, I had a class, that's why I was late to join. Ma'am, will my attendance be marked as late? - Remind me at the end. I am in the middle of a class, so it's distracting if you ask now. Okay, ma'am."
+            },
+            {
+                "timestamps": {
+                    "start": "22:07",
+                    "end": "22:17"
+                },
+                "segment_description": "A student asks about attendance, leading to an administrative discussion that deviates from the main lecture on database systems.",
+                "subtitle": "Just give me one second. A student has left the meeting."
+            },
+            {
+                "timestamps": {
+                    "start": "26:01",
+                    "end": "26:11"
+                },
+                "segment_description": "A brief, off-topic discussion between the instructor and a student interrupts the lecture's focus on database concepts.",
+                "subtitle": "I'll do each value. So, I'll see some more splits, so it will become clearer. But just to give you a quick recap, that is"
+            },
+            {
+                "timestamps": {
+                    "start": "29:32",
+                    "end": "29:37"
+                },
+                "segment_description": "A short, off-topic administrative discussion occurs, briefly pausing the flow of the main educational topic.",
+                "subtitle": "Okay, so if there are no questions,"
+            },
+            {
+                "timestamps": {
+                    "start": "31:14",
+                    "end": "31:24"
+                },
+                "segment_description": "A student joining the class late causes an interruption. The instructor pauses to address the new participant, an administrative task unrelated to the lecture content.",
+                "subtitle": "Someone wants to join this call. MD. ABRAR-UD-DOULA AMIYA (outside BRAC UNIVERSITY) joined. AMIYA can now join this meeting."
+            },
+            {
+                "timestamps": {
+                    "start": "33:20",
+                    "end": "33:28"
+                },
+                "segment_description": "The lecture's continuity is broken as the instructor pauses for an off-topic or administrative interaction with a student.",
+                "subtitle": "Are there any questions about this?"
+            },
+            {
+                "timestamps": {
+                    "start": "34:52",
+                    "end": "35:09"
+                },
+                "segment_description": "A general discussion between the instructor and a student occurs, which is off-topic and does not pertain to the main subject.",
+                "subtitle": "The value is in the right child... of that node."
+            },
+            {
+                "timestamps": {
+                    "start": "35:21",
+                    "end": "35:32"
+                },
+                "segment_description": "The video segment contains an off-topic administrative discussion between the instructor and a student.",
+                "subtitle": "Yes, ma'am. This child node, is it for 14 or 10? The range you mentioned."
+            },
+            {
+                "timestamps": {
+                    "start": "39:25",
+                    "end": "39:34"
+                },
+                "segment_description": "An off-topic discussion, likely concerning administrative issues or a student's question unrelated to the lecture, takes place.",
+                "subtitle": "This is known as a right-balanced B+ tree. Right-balanced because on the right side"
+            },
+            {
+                "timestamps": {
+                    "start": "40:22",
+                    "end": "40:27"
+                },
+                "segment_description": "A brief administrative discussion between the instructor and a student occurs, momentarily straying from the educational content.",
+                "subtitle": "Okay. So, any questions?"
+            }
+        ]
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=Zdd8mMOu4dI",
+        "video_topic": "An educational lecture on Chapter 14: Indexing, covering basic concepts, types of indices, and B+-Trees for database systems.",
+        "irrelevant_segments": [
+            {
+                "timestamps": {
+                    "start": "00:00:21",
+                    "end": "00:00:37"
+                },
+                "segment_description": "The instructor pauses the lecture to address a technical issue, muting a participant whose microphone was on, which interrupts the educational content.",
+                "subtitle": ""
+            },
+            {
+                "timestamps": {
+                    "start": "00:03:42",
+                    "end": "00:03:52"
+                },
+                "segment_description": "A notification appears on screen as the instructor admits a new participant to the online class, briefly distracting from the presentation.",
+                "subtitle": ""
+            },
+            {
+                "timestamps": {
+                    "start": "00:30:28",
+                    "end": "00:32:14"
+                },
+                "segment_description": "The discussion shifts from the academic topic to administrative matters. A student asks about the final exam syllabus, and the instructor responds with details about remaining chapters, future class plans, and the possibility of a recorded lecture.",
+                "subtitle": "Mam, I had a question. For the final, will it only be the inner index? Yes. So I'm not including B-Tree... let's see, we have only covered this much. We still have more to cover in the class. Let's see how much we can cover. Next class we will finish this chapter. After that we have Hashing, then Transactions. We have two more chapters. Let's see what happens. This chapter and Hashing are very related, so I will try to finish both. After that there is one more chapter. Okay? Is it clear? Yes miss. Okay. I will try to take one more class. If I take another class, it will probably be a recorded lecture. So let's see. Any questions? No miss. Okay. Okay, I will take the attendance now."
+            },
+            {
+                "timestamps": {
+                    "start": "00:32:15",
+                    "end": "00:35:45"
+                },
+                "segment_description": "This segment is dedicated entirely to the administrative task of taking class attendance, where the instructor calls out student IDs and names.",
+                "subtitle": "(The instructor is calling out student IDs and names and the students are responding. Example: ID... okay. ID 12. 13. 14. 15. Yes miss. 16. Yes miss...)"
+            }
+        ]
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=TvLT2Lv0RVk",
+        "video_topic": "Relational Database Design: ER-to-Relational Mapping Algorithm",
+        "irrelevant_segments": [
+            {
+                "timestamps": {
+                    "start": "01:25",
+                    "end": "01:38"
+                },
+                "segment_description": "The segment discusses the lecture's scope and mentions topics to be covered in a future offline class, which is a logistical detail rather than academic instruction.",
+                "subtitle": "In today's lecture, we will only go through step one, two, and step six. These three steps. And the other steps will be covered in the next offline class."
+            }
+        ]
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=85PLshkOILQ",
+        "video_topic": "An educational lecture on Transaction Processing in databases, covering Concurrency Control and Recovery.",
+        "irrelevant_segments": [
+            {
+                "timestamps": {
+                    "start": "00:00:00",
+                    "end": "00:00:03"
+                },
+                "segment_description": "The instructor begins the class by briefly mentioning the topic of the previous lecture before starting the main content.",
+                "subtitle": "So in the last class, we started transaction processing."
+            },
+            {
+                "timestamps": {
+                    "start": "00:04:10",
+                    "end": "00:04:13"
+                },
+                "segment_description": "This segment is a logistical interruption where the instructor pauses the lecture to admit a participant into the online meeting.",
+                "subtitle": "waiting to be admitted"
+            },
+            {
+                "timestamps": {
+                    "start": "00:05:14",
+                    "end": "00:05:18"
+                },
+                "segment_description": "The video shows a logistical interruption as the instructor admits another person into the online meeting.",
+                "subtitle": "Someone wants to join this call"
+            },
+            {
+                "timestamps": {
+                    "start": "00:07:22",
+                    "end": "00:07:48"
+                },
+                "segment_description": "A student interrupts the lecture to ask an administrative question about the format of the final exam, which is unrelated to the academic topic being discussed.",
+                "subtitle": "No ma'am. Ma'am, will these be scenario-based in the final or table-based? It could be scenario-based or maybe two transactions are given, from there you might be asked to explain what the problem is here. You might have to identify which problem is happening. Just one example."
+            },
+            {
+                "timestamps": {
+                    "start": "00:12:42",
+                    "end": "00:13:12"
+                },
+                "segment_description": "A student raises their hand, leading to a brief, non-academic interaction with the instructor.",
+                "subtitle": "Any questions so far? "
+            },
+            {
+                "timestamps": {
+                    "start": "00:15:28",
+                    "end": "00:15:35"
+                },
+                "segment_description": "This is a logistical interruption where the instructor pauses the lecture to admit more participants into the online meeting.",
+                "subtitle": "Someone wants to join this call"
+            },
+            {
+                "timestamps": {
+                    "start": "00:17:19",
+                    "end": "00:17:22"
+                },
+                "segment_description": "A student raises their hand to ask a question, causing a minor interruption in the flow of the lecture.",
+                "subtitle": "Any questions?"
+            },
+            {
+                "timestamps": {
+                    "start": "00:18:28",
+                    "end": "00:18:30"
+                },
+                "segment_description": "This segment is an administrative interruption where the instructor addresses a student's raised hand to ask a question.",
+                "subtitle": "Any questions?"
+            },
+            {
+                "timestamps": {
+                    "start": "00:19:25",
+                    "end": "00:19:35"
+                },
+                "segment_description": "The instructor pauses the lecture to ask if there are any student questions, which is a brief administrative check-in.",
+                "subtitle": "Any questions?"
+            },
+            {
+                "timestamps": {
+                    "start": "00:20:27",
+                    "end": "00:20:34"
+                },
+                "segment_description": "This is a brief administrative pause where the instructor asks for student questions before proceeding.",
+                "subtitle": "Any questions in this?"
+            },
+            {
+                "timestamps": {
+                    "start": "00:24:25",
+                    "end": "00:24:35"
+                },
+                "segment_description": "The instructor engages in a brief, off-topic administrative interaction with a specific student.",
+                "subtitle": "Yes, Tanzila. Do you have any questions?"
+            },
+            {
+                "timestamps": {
+                    "start": "00:25:48",
+                    "end": "00:25:51"
+                },
+                "segment_description": "The instructor announces they are stopping the screen share, which is a logistical action concluding a part of the lecture.",
+                "subtitle": "stop sharing"
+            }
+        ]
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=6oEbAmMMV1c",
+        "video_topic": "Database Transactions and ACID Properties",
+        "irrelevant_segments": [
+            {
+                "timestamps": {
+                    "start": "00:00:00",
+                    "end": "00:00:03"
+                },
+                "segment_description": "The instructor is admitting a student to the online class, which is an administrative task and not part of the academic lesson.",
+                "subtitle": "Okay. So..."
+            },
+            {
+                "timestamps": {
+                    "start": "00:02:35",
+                    "end": "00:02:37"
+                },
+                "segment_description": "The instructor pauses the lecture to admit another student into the online meeting, which is an administrative interruption.",
+                "subtitle": "MD RANA MUSTAFA can now join this meeting."
+            },
+            {
+                "timestamps": {
+                    "start": "00:04:00",
+                    "end": "00:04:03"
+                },
+                "segment_description": "The lecture is briefly interrupted as the instructor admits a student to the online call.",
+                "subtitle": "MONTASIR CHOWDHURY MASROL can now join this meeting."
+            },
+            {
+                "timestamps": {
+                    "start": "00:04:55",
+                    "end": "00:05:10"
+                },
+                "segment_description": "A student attempts to ask a question but is muted, leading to a brief interruption where the instructor addresses the technical issue.",
+                "subtitle": "Anyone has any questions? Srijon, do you have any questions?"
+            },
+            {
+                "timestamps": {
+                    "start": "00:06:21",
+                    "end": "00:06:23"
+                },
+                "segment_description": "The instructor briefly stops the lecture to admit a new participant into the online class session.",
+                "subtitle": "FAHIMA HASIN KHAN can now join this meeting."
+            },
+            {
+                "timestamps": {
+                    "start": "00:07:22",
+                    "end": "00:07:49"
+                },
+                "segment_description": "A student asks a logistical question about an upcoming test, shifting the focus away from the main academic topic to course administration.",
+                "subtitle": "Miss, our test in the next class, will it be online? No, there will be no quiz online. There's no point in having a quiz online. Next week we have one class, right? If the next week's class is offline instead of online, then the quiz will be in that class. And if we don't get any more offline classes, then two quizzes will be counted out of three."
+            },
+            {
+                "timestamps": {
+                    "start": "00:07:56",
+                    "end": "00:08:14"
+                },
+                "segment_description": "A student's question about the final exam syllabus leads to an administrative discussion unrelated to the current lecture on transactions.",
+                "subtitle": "Hello miss, which chapters are on our final? I will conduct a review before the final. But if I have to say, it will start from lecture 5 to lecture 9."
+            },
+            {
+                "timestamps": {
+                    "start": "00:08:26",
+                    "end": "00:08:52"
+                },
+                "segment_description": "The instructor takes a break from the lecture to conduct an attendance call, which is a routine administrative procedure.",
+                "subtitle": "Anyone's attendance pending? Yes ma'am. Name? Section 8, Montasir Chowdhury. Montasir... Montasir Chowdhury. Anyone else from Section 8? Yes miss, Fahima Hasin Khan. Fahima Hasin. Anyone else from Section 8? Okay. Section 7? Ma'am, MD Rana Mostofa. Rana Mostofa. Anyone else? Ma'am, Asir Abrar."
+            }
+        ]
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=8vWVeQ711vk",
+        "video_topic": "Introduction to PID (Proportional-Integral-Derivative) Control System Theory in Robotics",
+        "irrelevant_segments": [
+            {
+                "timestamps": {
+                    "start": "00:00:00",
+                    "end": "00:00:11"
+                },
+                "segment_description": "This segment covers the initial setup for the online class, including the instructor starting the screen recording and a student confirming it. An unrelated antivirus software pop-up also appears on the screen. This is purely logistical and contains no academic content related to the lecture.",
+                "subtitle": "I am starting the class. Just a moment. Yes sir, recording is started. Okay, great."
+            },
+            {
+                "timestamps": {
+                    "start": "00:44:03",
+                    "end": "00:47:41"
+                },
+                "segment_description": "This portion of the video is dedicated to administrative announcements regarding the next class on Machine Learning, followed by a detailed discussion about the final exam's format, including the number of questions, total marks, and duration. This is irrelevant to the technical topic of PID control.",
+                "subtitle": "Next Class, Machine Learning. Step one, output equals... step two, e2 equals... So yeah. Sir I have a question sir. So, how many questions will be there in final exam? Okay. In your final exam, you will be having exactly four sets of questions. You will be having four questions. So all of those four questions will be similar to your quiz question. You have already looked into your quiz question, you know about the structure. So those types of questions will be in your exam. But you need to face, you need to answer four questions and there will be no options will be provided to you. Okay? No options will be there. So you need to answer all of the questions and it will, it will, it will consist, it will have exactly 35 marks. Okay? So the four questions will carry 35 marks, which is exactly the same of your final, which is exactly the same of your final marks. Okay? The final is having exactly 35 marks. And the exam duration is one hour and 30 minutes. That is more than enough. Okay? So the question is very easy. You just need to follow the way that I have shown to you and just follow the way and all of the things will get easier to you."
+            },
+            {
+                "timestamps": {
+                    "start": "00:49:26",
+                    "end": "00:49:42"
+                },
+                "segment_description": "The instructor is concluding the class session, confirming that the syllabus has been completed, and then stops the recording. This is a logistical wrap-up of the session.",
+                "subtitle": "Okay, great. Do you have any further question? No, sir. Okay, great. So that's all. So we have completed our syllabus. So now I will stop..."
+            }
+        ]
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=tJZZXoTHRFg",
+        "video_topic": "Introduction to Robotics: Block Diagram Solving and Summing Points",
+        "irrelevant_segments": [
+            {
+                "timestamps": {
+                    "start": "00:00:00",
+                    "end": "00:00:27"
+                },
+                "segment_description": "The segment covers the initial setup of the online class, including the instructor starting the session, confirming the recording status with a student, and setting up screen sharing. This is administrative and technical setup prior to the start of the academic content.",
+                "subtitle": "I am starting class. Yes sir, recording is started. Okay, great. So, I'm sharing my screen. Just a moment. Okay. Can you see my screen? Yes, sir. Okay."
+            },
+            {
+                "timestamps": {
+                    "start": "21:08",
+                    "end": "21:40"
+                },
+                "segment_description": "This segment documents a period of technical difficulty where the instructor's audio becomes unclear and cuts out. Students interrupt the lesson to inform the instructor about the sound issue. The instructor acknowledges the problem and attempts to resolve it. This portion is irrelevant as no academic content is effectively delivered.",
+                "subtitle": "...then G3. So now we can convert this... all of these three blocks to a single block and that block will be having a value of G1 into G2 into G3. So you just need to multiply all of the block... all of the values of the blocks if you see that the blocks are in series. So this is rule number two. And rule number three is very simple. Rule number three is if you see two blocks are in parallel and those blocks are getting inputted to a summing point and this is a summing point. If you see a symbol like that or a structure like that, then you should... you should add the value of these two blocks. So G1 and G2 is getting... is getting added here. Okay? But if you see that here the sign is negative and the sign is positive, then what should be the value of... what should be the value here? Can you tell me? (Student: Sir your sound is like not coming properly.) Your voice is cutting sir, maybe... (Student: Yes sir.) Okay. Now you... you should hear me properly. Can you hear me properly now? (Student: Yes sir.) Okay, great."
+            },
+            {
+                "timestamps": {
+                    "start": "32:27",
+                    "end": "33:03"
+                },
+                "segment_description": "A student interrupts the lecture to ask a question about the format of exam problems, specifically whether they will involve numerical values or symbolic variables. The instructor's response clarifies this administrative detail, which is not part of the core academic lesson on block diagrams.",
+                "subtitle": "Sir in question three in the place of G1, G2 there will be some numerical value, right? Uh... there can be some numerical values but it is not umm... like... it is not always... you will... you will not always find some numerical value. You can find uh... some symbol... symbol like this. This type of... this type of question can be in your exam or numerical value can also be in your exam. So either type of question can be in your exam. Okay?"
+            }
+        ]
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=O4bjWrhL4z0",
+        "video_topic": "Introduction to Robotics: Control System Theory",
+        "irrelevant_segments": [
+            {
+                "timestamps": {
+                    "start": "00:00:00",
+                    "end": "00:00:24"
+                },
+                "segment_description": "The instructor is setting up for the online class, starting the recording and sharing the screen. This is a technical and administrative setup before the lecture begins.",
+                "subtitle": "start in the class... yes sir recording is started... okay great... so let me share my screen first... okay... is my screen visible?"
+            },
+            {
+                "timestamps": {
+                    "start": "00:36:08",
+                    "end": "00:38:46"
+                },
+                "segment_description": "The instructor and students are discussing the schedule and syllabus for their upcoming third quiz and final exam. This is an administrative and logistical conversation, unrelated to the topic of robotics and control theory.",
+                "subtitle": "okay sir, sir when will be our quiz, quiz 3?... okay so... I will take your quiz 3 maybe on Saturday... because I have to take another class... I had an initial plan to take your quiz on Thursday but it's not possible because I have just completed one lecture... I have a one... final exam, sorry final exam of 423 at Sunday... so after like so it will finish at 7pm... okay so that is very late so... okay so... can you can you give... do you have any exam on Saturday?... no no... okay... okay... so I will request you to come up for to attend the quiz and that quiz will last only 20 or 25 minutes we just... okay okay... okay okay right and the topic of quiz sir... I will announce the topic later because I will take another class tomorrow and I will also take another class on Friday also so that will make... that will complete our whole syllabus okay... so after completing the whole syllabus I will announce the syllabus for the quiz okay... okay sir... and for final syllabus there will be two chapter like one from navigation and one from control... yeah yeah the final... the syllabus for the final exam is the navigation and the control theory the two chapters... okay"
+            },
+            {
+                "timestamps": {
+                    "start": "00:38:46",
+                    "end": "00:39:01"
+                },
+                "segment_description": "The instructor concludes the lecture, thanks the students for joining the late-night class, and ends the call. This segment consists of social farewells and is not part of the academic lesson.",
+                "subtitle": "so that is all for today thank you for joining and I know it's very it's it's late night so... I'm ending the class now... thank you sir good night... good night"
+            }
+        ]
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=9wHYi8TYX3Y",
+        "video_topic": "Introduction to Robotics: Robot Navigation",
+        "irrelevant_segments": [
+            {
+                "timestamps": {
+                    "start": "00:00:00",
+                    "end": "00:05:58"
+                },
+                "segment_description": "The instructor begins the session with a detailed administrative overview. This includes discussions about the final exam syllabus, the cancellation of the mid-term exam and its replacement with an assignment, policies on plagiarism, the number of remaining classes, and the grading structure for quizzes. This entire segment is focused on course logistics rather than the academic topic of robotics.",
+                "subtitle": "Okay, sure. Yes sir, recording is on. Okay, great. So, I am starting the class. First of all, I want to talk about our syllabus for the final and also there are some announcements that I have to make to you and those announcements are very important for our course. So, as you all know that our mid-term is cancelled. So, we have made some necessary changes so that you don't lose marks from anywhere. So, let's talk about the mid-term first. So first of all, as we are not taking our mid-term in this semester, so what we are planning to do, we will give you an assignment which is basically the mid-term question that we have made for your mid-term examination. So, we will provide the same question to all of you and that will be like an assignment. So, you will have some time to complete that assignment. For example, maybe we will give seven or 10 days to complete that assignment and that assignment will be counted as your mid-term exam. So, a common question can be there that is, as this is a special type of course where you don't have to code, you don't have to make an algorithm for any any type of topic. So, we are expecting that you should write in a different way. Okay? So, I can show you all of the scripts from the previous semester where you can you will always see that there are no similarities between any of the scripts because as you know that our our topic is like that, you you don't have to copy from from anyone and as you are writing from your own perspective, the answer should be different from person to person. Okay? So, if we find that if we find any plagiarism that will be a penalty and maybe you will get zero for that for that specific question. So, that's a very important point and we are expecting that you will not copy from anyone and you you should write from your own. And as you are having the question and you have all of the resources with you, you can take any help from from the resources that I have taught you. So you don't you don't need to copy from anyone. You just need to follow the topics and all of the questions will be will be asked from that topic. So, you you you will easily answer, you can easily answer all of those questions by your own. So, that's the first thing and the second thing is for our final exam, the syllabus is reduced. So, normally in in CSE461 we give we generally give four chapters for for the final exam normally, I'm talking about the normal case. So after we generally give one chapter before mid-term. So, we have two chapters before mid, right? So, out of that those two chapters, we generally give one chapter. So, that chapter should be the first one. But in in this semester, we are omitting this that chapter also. So, you will not be asked any question like before mid-term. So that that before mid-term part is totally removed. And after mid-term, we generally have like three chapters. The one chapter is called navigation and another chapter is control control theory and the last one is machine learning. But considering all of the consequences and the time limitation, we are also omitting one chapter from here. So, instead of three chapters, you will need to study on two chapters. So, we are we are removing basically the machine learning chapter from your syllabus. So, you just you will just have the control theory chapter and the navigation chapter. Okay? So all of these two chapters is very short in in content and generally navigation takes a like two classes to finish and control theory can take two or three three classes. So at most three classes, at least two classes. So it it depends on how much topic we can cover in one class. So generally it takes three three classes. So in total you will need to attend like three five sessions. So out of those five sessions, you will easily cover the syllabus that you have to study for your final exam. Okay? So that's all and and also I will give some uh one or two assignments before before the final exam. that is not basically the mid-term exam mid-term assignment. It's a separate assignment and I will provide it to you because we have a we have a specific amount of marks for for the assignments. So we need to cover that that that part also. So that's why I will give you one or two assignments before before the final. So that's all and and also another important point is you you will need to sit for two quizzes for before final. So one quiz will be uh will be on um navigation and another quiz will be on control theory. And as you have already given one uh quiz before mid-term and you will also have to face two quizzes after mid-term that is basically before final. So in total you you will need to give like three quizzes, right? But according to the departmental notice, we need to consider best n minus two uh n minus two count. So in total as we have uh like three three quizzes so n minus two is basically one. So we will consider best one quizzes out of three. Okay? So that's a huge uh I think that's a huge advantage for you for all of you. So you just need to make sure that you are getting enough mark at least at one at one quiz. Okay? So that's all and all of the mark distributions are similar like like our previous semester. But we we we were planning to take your final exam on out of 40 marks but then we realized that uh for 40 marks is huge for your final exam and as you have a short shorter version of syllabus, so 40 marks will be assigning assigning questions for 40 marks will be difficult for us also. So that's why we decided that we will uh take your exam uh we will take your final exam out of 30 or 35 marks. Okay? So that's that's all I I think that's all for uh for the announcement part. So if you have any question regarding any of the topics you can ask."
+            },
+            {
+                "timestamps": {
+                    "start": "00:05:58",
+                    "end": "00:09:12"
+                },
+                "segment_description": "This is a transitional segment where the instructor confirms if students have any questions about the administrative announcements, receives a negative response, and then prepares to begin the lecture. It includes a brief apology for a previous delay in classes.",
+                "subtitle": "No sir. Okay, great. So, as you don't have any questions, so I can start our lesson our today's lesson. So we will start the navigation system first. So, navigation... navigation chapter will uh take like two classes to complete. So, we will need to have another session for navigation um like without uh after after today's session. Okay? So I will tell you on which day we will take another session. So first of all, I am sorry for for the delay. I was I was I was sick and also I was very busy uh with some of my research stuffs. So now I'm free, I will take another session shortly. Okay? So I am starting the class. Let me share my screen. Okay."
+            },
+            {
+                "timestamps": {
+                    "start": "00:09:15",
+                    "end": "00:09:52"
+                },
+                "segment_description": "This segment shows the instructor navigating their personal computer's file system (Google Drive) to locate and open the correct presentation file for the lecture. This involves clicking through several folders and files, which is a technical setup action.",
+                "subtitle": "(No speech, only on-screen activity of file navigation)"
+            },
+            {
+                "timestamps": {
+                    "start": "00:10:07",
+                    "end": "00:10:17"
+                },
+                "segment_description": "A brief final check with the students to ensure they can see the shared screen before the lecture officially begins. This is part of the technical setup for the online class.",
+                "subtitle": "Okay, I think you can you can see my screen, right? Yes sir. Can you see my screen? Okay. Yes sir."
+            },
+            {
+                "timestamps": {
+                    "start": "00:49:18",
+                    "end": "00:49:53"
+                },
+                "segment_description": "The video transitions from the academic lecture to a Discord chat where the instructor and students discuss the course schedule and remaining classes before the final assessment. This is a logistical and administrative conversation, not related to the topic of robotics.",
+                "subtitle": "Sir, we are just two weeks before the final assessment time. So, how we are going to finish this course and classes?"
+            },
+            {
+                "timestamps": {
+                    "start": "00:50:39",
+                    "end": "01:14:18"
+                },
+                "segment_description": "This segment consists of a prolonged silence and shows a static screen with the title 'If Map is given?'. There is no explanation or teaching occurring during this time, making it an irrelevant pause in the lecture.",
+                "subtitle": ""
+            }
+        ]
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=42zTQKMJNnU",
+        "video_topic": "Introduction to Robotics: A lecture on Robot Navigation, focusing on Mapping and Exploration using the Occupancy Grid (OG) mapping algorithm and the Frontier Based Exploration technique.",
+        "irrelevant_segments": [
+            {
+                "timestamps": {
+                    "start": "00:00:00",
+                    "end": "00:00:08"
+                },
+                "segment_description": "The segment involves the instructor and participants confirming that the screen recording has started and preparing for the lecture to begin. This is a logistical setup and not part of the academic content.",
+                "subtitle": "Hello. Hello. The recording has started. Okay, great."
+            },
+            {
+                "timestamps": {
+                    "start": "00:13:58",
+                    "end": "00:15:58"
+                },
+                "segment_description": "The presenter's screen accidentally switches from the lecture presentation to a YouTube video about an Indian astronaut. This segment is an off-topic technical interruption.",
+                "subtitle": ""
+            },
+            {
+                "timestamps": {
+                    "start": "00:52:12",
+                    "end": "00:57:05"
+                },
+                "segment_description": "This segment consists of administrative and logistical discussions. The instructor announces the end of the current chapter, discusses the topic for the next class, schedules a future quiz with the students, and concludes the session. This is not related to the lecture's academic content.",
+                "subtitle": "So our navigation chapter is done. So, I will take a quiz on this navigation chapter. So, maybe it will... I will take your exam on next Thursday. Okay? Next Thursday. So, be prepared. Your second quiz will be on next Thursday. And I will take your last quiz... Okay. I will try to complete this Control Theory class in this running week. The week is just started, right? So I will try to take two classes on Control Theory in this week so that you can give your quiz three with your own section. Okay? I will try to do that because it's difficult for me to make another slots to take a quiz for you. But I have already taken quiz two for all of my sections. So, you need to give your quiz two just like how you gave your quiz one. But I will try to match with the content that I am teaching in my regular classes so that you can give your quiz three with the section six. Okay? Is it clear? Okay, great. So that's all for today. Thank you for joining. I'm ending the class. Thank you. Okay, thank you sir."
+            },
+            {
+                "timestamps": {
+                    "start": "00:57:05",
+                    "end": "00:57:08"
+                },
+                "segment_description": "The lecture has concluded and participants have said their goodbyes, but the recording continues for a few seconds showing the Google Meet interface as the session ends. This is considered dead air.",
+                "subtitle": "Thank you."
+            }
+        ]
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=ID8c0LDJhNc",
+        "video_topic": "An educational guide on how to prepare and deliver a webinar presentation for the ENG091 course.",
+        "irrelevant_segments": [
+            {
+                "timestamps": {
+                    "start": "00:00:00",
+                    "end": "00:01:01"
+                },
+                "segment_description": "The segment begins with the instructor greeting the students and discussing administrative details about the week's content and a future group presentation. This part is focused on class logistics rather than the core academic topic of the webinar presentation itself.",
+                "subtitle": "alright. So... Um... this week, I hope you have seen the content for this week. It's webinar. It's webinar. Um of course you are going to see what webinar means but let me tell you that you are going to do a presentation, a group presentation. Alright, in the next class. It's going to be a webinar presentation and um hopefully it won't be that difficult for you because you have already done one presentation in a group. Uh we are going to look at buX first and see how it works. Then I will tag you um you know I will I will tag you in groups and I will also assign you um with an article. Each group will be assigned with one article. So let me share buX first. Let me share my screen. I hope all of you can see it. Uh so first let's watch the lecture video on webinar."
+            },
+            {
+                "timestamps": {
+                    "start": "00:03:05",
+                    "end": "00:04:18"
+                },
+                "segment_description": "Following the instructional video, the teacher engages in a Q&A session with the students to check their comprehension. This interactive discussion includes a student's answer and the instructor's elaboration, which is tangential to the main lecture content.",
+                "subtitle": "understand by webinar? What did we see in the video? What did we watch in the video? of this week. What does webinar means class? mean? What does webinar mean? The answer is given already on the screen. an online seminar. Mhm. an online seminar. Online seminar exactly. Because before the pandemic we used to have seminars like in physical setup, right? But when the pandemic hit, everything went online, you know it can it's it's our classes, offices, other organizations, institutions so everything went online and of course people had to uh you know conduct seminars and everything. So when you know people started uh conducting seminars online, uh then we call it uh you know webinars. So it's a platform that serves the purpose of holding various events or video presentations, training sessions, classes, workshops etc. alright. So it's it's a picture, it's just like uh it's just like us what we do in in a in an online class, right?"
+            },
+            {
+                "timestamps": {
+                    "start": "00:05:40",
+                    "end": "00:29:26"
+                },
+                "segment_description": "This extended segment is dedicated to administrative and logistical tasks. The instructor explains the rules for the upcoming group presentation, divides the students into groups, takes attendance, and addresses various student questions related to the assignment and group formations. This entire portion deviates from the academic subject of the lecture.",
+                "subtitle": "and then what are we going to do for a webinar presentation in English 091? First I'm going to divide you into four groups not five groups four groups. Then you will see there are four articles on buX and I will assign one article to each group. Then, every participant will present the different main ideas or components of the article. So let's say this is a long article, right? This is probably an article of let's say 10 or 15 paragraphs, alright because the length of the article will vary. You you will see that. So you are not going to since it's a group presentation so not that everybody is going to do the presentation on the whole article. We you will follow a special reading strategy that is called jigsaw strategy. So in jigsaw strategy what we do is there are group there are group members in one group right? So you will divide the long text or the long article into chunks or parts. Then each group member will take only one part or one chunk of the article. So let's say if there are since there are 25 students, so there are going to be six students in one group. Only one group will have seven students. So let's say if there are 15 paragraphs then you can divide the paragraphs by like this. Like one person will present on two paragraphs. So if there are 15 paragraphs then you know if there are seven group members then each of them will get two paragraphs, only one person will get five three paragraphs. right? if you divide uh 15 I mean by by seven. right? So all of the seven members will get two paragraphs, only one all of the six members out of seven will get uh two paragraphs, only one member the seventh member will get three paragraphs. So you will take different parts of the article not that you have to do the presentation on the full article. Of course you will read the whole article but then you will sit in a group and then you will decide who is going to present on which part or on which paragraph. Then you will present the main idea of that specific paragraph or component of the article. And then okay. So since you are going to present only one or two paragraphs so what you are going to do is you are going to take an article from an outside source that you think is relevant to your article. So take two articles from outside source. Now it can be from a book, it can be from an article I mean it can be an article from the internet, it can be from a journal anywhere. but just make sure it's a proper article. So let's say the article that I assign your group with is on climate change alright. So you have to find two more articles on climate change. maybe you can find the article in a book or on the internet or on the book I mean from the books or any websites or any journals anywhere you want. And then you will take relevant information from the article and join it with you know your presentation. add the information from other articles uh to your presentation. Is that clear class? who asked this? I missed out because there are so many like uh faces together. Who asked this? me. It's me. Tahmida. Okay Tahmida. Alright so yes you have to analyze because without analyzing you won't understand the text right? and it's the same for the other two articles that you are going to take right? From the next time I will give attendance just before I mean just 5 minutes before the class ends because I noticed that a lot of people leave after giving the attendance but they don't know that I notice that and I you know mark them absent. if anyone do not send me or email me the reason for his or her leaving. they don't know that I mark them absent. anyway is anyone ready yet? Is anyone ready now? Not yet I guess alright. Keep reading let me know when you are done. you can do a presentation now maybe on one or two paragraphs. you don't have to take the full article the whole article. Done class we don't have much time. Are you still reading? Yes? okay but I cannot see Munim, Nuzhat, Tabassum Bushra. uh then Muhammad Hossain, Mostofa, Shobuj, Istiak at least turn on the camera and let me give you attendance in the meanwhile. Shakib Shadman? I guess absent right? Shakib Shadman? Present ma'am present. Okay present. Istiak? Present ma'am. Yes Present ma'am. Present. Abdullah Sany okay. Mahmuda Tabassum Present ma'am. Okay. anyone ready? So anyone is ready? Are you reading? No ma'am. I'm still reading. Okay. Mahmuda Tabassum? No ma'am I'm also reading still reading. Okay Ifat Sultana what's your update? Uh ma'am I'm still reading too. Shakib Shadman still reading? Yes ma'am still reading. Farhin I cannot see you properly. Okay keep reading let me know when you are done. you can do a presentation now maybe on one or two paragraphs you don't have to take the full article the whole article. Done class we don't have much time. Are you still reading? Yes? okay but I cannot see Munim, Nuzhat, Tabassum Bushra. uh then Muhammad Hossain, Mostofa, Shobuj, Istiak at least turn on the camera and let me give you attendance in the meanwhile. Shakib Shadman? I guess absent right? Shakib Shadman? Present ma'am present. Okay present. Istiak? Present ma'am. Yes Present ma'am. Present. Abdullah Sany okay. Mahmuda Tabassum Present ma'am. Okay. anyone ready? So anyone is ready? Are you reading? No ma'am. I'm still reading. Okay. Mahmuda Tabassum? No ma'am I'm also reading still reading. Okay Ifat Sultana what's your update? Uh ma'am I'm still reading too. Shakib Shadman still reading? Yes ma'am still reading. Farhin I cannot see you properly. Okay keep reading let me know when you are done. "
+            },
+            {
+                "timestamps": {
+                    "start": "00:29:26",
+                    "end": "00:29:32"
+                },
+                "segment_description": "The instructor concludes the session with final administrative remarks, including information about her next class, which is not relevant to the lesson on webinar presentations.",
+                "subtitle": "Alright? So good bye everyone I have another class and I'm sure some of you may have class now. So good bye take care all of you."
+            }
+        ]
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=ZL7zx46gfkk",
+        "video_topic": "A classroom lecture on analyzing and answering reading comprehension questions, focusing on structure, language, and content organization.",
+        "irrelevant_segments": [
+            {
+                "timestamps": {
+                    "start": "00:00:00",
+                    "end": "00:01:36"
+                },
+                "segment_description": "This segment is focused on logistical and administrative tasks at the beginning of the online class. The instructor admits a student into the call, navigates the learning platform (Bux), and sets up the screen-sharing for the presentation. This is pre-lesson setup and does not contain core academic content.",
+                "subtitle": "Okay. So, So we are going to look at reading comprehension question answer."
+            },
+            {
+                "timestamps": {
+                    "start": "00:06:31",
+                    "end": "00:08:58"
+                },
+                "segment_description": "The instructor pauses the academic lesson to conduct an extended attendance check. She calls out the names of all the students on the roster to mark them as present or absent. This segment is entirely administrative.",
+                "subtitle": "And, let me give you attendance meanwhile. There is no one in the class who couldn't submit the assignment, right? All of you submitted the assignment, right? All of you also got a confirmation email, right? Yes, ma'am. Yes, ma'am. Shakib Shadman? Shakib Shadman, are you here? Present, ma'am. Munim? Munim, absent. Mostofa? Mostofa, absent. Istiak? Yes, ma'am. Tanjila? Tanjila, absent. Muktadirul Islam Nibir, present. Muktadir Haque is also present. Abdullah Sany? Abdullah Sany, absent. Mahmuda Tabassum? Mahmuda Tabassum, absent. Khalid Al Kafi? Khalid Al Kafi? Tanvir is present. Farhin Ulfat, present. Atik Hasan, present, right, Atik Hasan? Yes, ma'am. Tasnim is also present. Nuzhat Tasnim? Nuzhat Tasnim? Sabuj Majumdar, present. Mohammad Hosamuddin? Hosamuddin, absent. Riyad Bin Sajjad? Yes, ma'am. Shoyeb Hasan? Yes, ma'am. Mahmuda Tabassum, just joined. Iffat Sultana Aria? Iffat Sultana Aria? Tabassum Tawhid Raya? Tabassum Tawhid Raya? Sifat? Present, ma'am. Tahmida Ahmed is present. Tabassum Bushra? Tabassum Bushra? Mehedi Hasan is present."
+            },
+            {
+                "timestamps": {
+                    "start": "00:11:44",
+                    "end": "00:12:09"
+                },
+                "segment_description": "The lesson is interrupted to address a student's technical issue with sharing a document. The instructor and student discuss the problem and potential solutions, which is irrelevant to the topic of reading comprehension.",
+                "subtitle": "the purpose of what, is there any problem? Then how will you share? I mean, I wanted to see and give you feedback for your convenience, for your benefit, you know. It's a problem. So, what you can do is, Tasnim, I guess you can, you can just take a picture and send me on on Slack or maybe email. Okay, ma'am. I will."
+            }
+        ]
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=dXZ1iZJ8Xtc",
+        "video_topic": "Guidance on Writing a Narrative Essay Outline",
+        "irrelevant_segments": [
+            {
+                "timestamps": {
+                    "start": "00:00:00",
+                    "end": "00:00:17"
+                },
+                "segment_description": "The instructor begins the class by admitting a student and asking multiple other students to turn their cameras on, which are administrative and logistical tasks before the main lecture begins.",
+                "subtitle": "uh, so we are going to start the class now because, you know, most of the students are here. Abdullah Sany, please turn on the camera. Shobuj Mojumdar, turn on the camera. Nuzhat Tasnim, turn on the camera."
+            },
+            {
+                "timestamps": {
+                    "start": "00:01:01",
+                    "end": "00:01:15"
+                },
+                "segment_description": "The lecture is interrupted by a notification and the process of admitting a new student, Mohammad Hossam Uddin Tasin, into the online session.",
+                "subtitle": "(Sound of notification) Someone wants to join this call. MOHAMMAD HOSSAM UDDIN TASIN."
+            },
+            {
+                "timestamps": {
+                    "start": "00:01:16",
+                    "end": "00:01:21"
+                },
+                "segment_description": "The lesson is immediately interrupted again by another student, Tahmida Ahmed, requesting to join the call.",
+                "subtitle": "(Sound of notification) Someone wants to join this call. TAHMIDA AHMED."
+            },
+            {
+                "timestamps": {
+                    "start": "00:02:52",
+                    "end": "00:02:58"
+                },
+                "segment_description": "The instructor is interrupted by a request from a student, Md. Mehedi Hasan Siam, to join the call.",
+                "subtitle": "(Sound of notification) Someone wants to join this call. MD. MEHEDI HASAN SIAM."
+            },
+            {
+                "timestamps": {
+                    "start": "00:03:16",
+                    "end": "00:03:20"
+                },
+                "segment_description": "The lecture is paused to admit another student, Mahmuda Tabassum, into the online meeting.",
+                "subtitle": "(Sound of notification) Someone wants to join this call. MAHMUDA TABASSUM."
+            },
+            {
+                "timestamps": {
+                    "start": "00:07:35",
+                    "end": "00:07:42"
+                },
+                "segment_description": "The instructor is interrupted by a notification to admit a new participant, Khalid Al Kafi, to the call.",
+                "subtitle": "(Sound of notification) Someone wants to join this call. KHALID AL KAFI."
+            },
+            {
+                "timestamps": {
+                    "start": "00:09:12",
+                    "end": "00:09:15"
+                },
+                "segment_description": "The lesson is briefly paused as the instructor admits another student, Md. Shoyeb Hasan Sayem, into the online session.",
+                "subtitle": "(Sound of notification) Someone wants to join this call. MD. SHOYEB HASAN SAYEM."
+            },
+            {
+                "timestamps": {
+                    "start": "00:15:35",
+                    "end": "00:15:40"
+                },
+                "segment_description": "The lecture is interrupted by a notification for another student, Tabassum Touhid Raya, requesting to join the call.",
+                "subtitle": "(Sound of notification) Someone wants to join this call. TABASSUM TOUHID RAYA."
+            },
+            {
+                "timestamps": {
+                    "start": "00:23:03",
+                    "end": "00:24:14"
+                },
+                "segment_description": "The instructor pauses the lesson to address multiple students about having their cameras turned off and discusses logistical issues with students who are currently traveling, which is unrelated to the academic topic.",
+                "subtitle": "Why is so many people's camera off? Mohammad Hossam, Riyad, Abdullahis, Tanjila, Shoyeb, Mehedi Hasan, Mahmuda Tabassum. Mehedi Hasan, what is wrong with your camera? Mohammad Hosam, what is wrong with your camera? And Abdullahis Sany? I have been saying this for a long time to turn on the camera. Ma'am Sany is traveling. Ma'am I messaged in the chatbox. I was not in this tab, I was probably showing you box or something else. Suddenly everyone is traveling, right? I won't allow this in the next class, in the last class. Ma'am I'm on my way home. Just 10 minutes."
+            }
+        ]
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=2nuq4_hAQ00",
+        "video_topic": "An introduction to data structures, focusing on the concepts of arrays, lists, and the operations of shifting and rotating array elements.",
+        "irrelevant_segments": [
+            {
+                "timestamps": {
+                    "start": "00:00:00",
+                    "end": "00:00:11"
+                },
+                "segment_description": "The video begins with a silent screen showing the Microsoft Whiteboard interface before the instructor starts the lecture.",
+                "subtitle": "(Silence)"
+            },
+            {
+                "timestamps": {
+                    "start": "00:25:25",
+                    "end": "00:30:55"
+                },
+                "segment_description": "The instructor provides administrative instructions for the course, discusses prerequisite knowledge, and answers logistical questions from students regarding lab sessions and programming languages. The segment concludes with social goodbyes as the class ends.",
+                "subtitle": "Go to Box and go through week 1 lectures. And then go through the lecture on circular array. This is something very new to you guys, okay? Circular array. I don't expect you to understand but it's pretty easy once we go through the contents, things get a bit familiar when we do a live session, okay? So go through the lecture of the contents we've gone through today. And then study a bit of circular array. And then there's a very important thing you must do, that is, if you think, if you think you lack knowledge on objects and classes, if you're not 100% sure that you know objects and classes, make sure you know them, okay? These were taught in the previous course CSE111. And objects and classes, understanding objects and classes are vital for CSE220. If you don't understand objects and classes 100%, you won't make it through 220, okay? Because once we're done with the arrays, we're going to move into a very, a bit, I wouldn't say complicated, I'll say a bit advanced data structures that involves only classes and objects. So if you're not sure what classes and objects are, how they work, you're going to be in very big trouble. So make sure you know these. And yeah, if you, if you go to Slack, I've given a link and there's a book. I want you guys to read books, okay? And by next week I think you'll you'll be assigned a student tutor. So if you have lackings, if you have questions on previous courses, please talk to him or her, I mean, at the earliest convenience. Don't delay it for midterm or final. The major reason why why students do not go through 220 is because of objects and classes. They know arrays, they know lists, but about 80% of 220 is covered by these two things, okay? Please keep this in mind. Any more questions? Do you have any more questions? If not, then we'll end today. Uh, sir, when will our lab sessions start? We're supposed to have one tomorrow. From from next week. Next week? Okay. Right, thank you, sir. Sir, for our quizzes and assignments, do we have to use Java or Python? This is an option. You can use either Java or Python but I suggest you learn both the languages. Learn both the languages. Thank you, sir. Sir, since this is, I think this is the first semester where we're doing Java, so could you differentiate some of the differences between Java and Python? That would be very helpful. Python is more of a high level than Java. Both are high level languages but Python is a bit more high level. High level means easier, less complicated than Java. So according to me, if you're start, if you're starting to learn a programming language, you should go for C or Java, you know. So when you use Python, Python's very easy. A lot of things you don't need to think. But while, but while programming in Java or C, you need to think a lot. So at the very beginning, I think thinking is a good thing, you know. Spending time, but still in this course it's an option. You can go for either Java or Python, it's your wish. But I suggest you learn both the languages. Thank you, sir. Okay then, goodbye. All right, bye sir. Thank you sir. Bye sir. Thank you sir. Thank you sir. Have a great day."
+            }
+        ]
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=uyhd6OkBiBk",
+        "video_topic": "Probability Theory and Naive Bayes Classifier",
+        "irrelevant_segments": [
+            {
+                "timestamps": {
+                    "start": "00:00:09",
+                    "end": "00:04:22"
+                },
+                "segment_description": "This segment is dedicated to administrative and logistical matters concerning an upcoming quiz. The discussion includes the quiz date, topics, and accommodations for a student who will be absent. It also includes a brief technical issue where a student informs the instructor about his low audio volume. No core academic content on probability theory or Naive Bayes classifiers is discussed.",
+                "subtitle": "I have an announcement. In our next class... 12th of November... I want to take one quiz. On fuzzy sets and the fuzzy TOPSIS method. Is it fine? Sir, up to the fuzzy TOPSIS method or only fuzzy and fuzzy TOPSIS? TOPSIS and fuzzy TOPSIS, these two methods. Okay sir. Since those two are the latest, I think... since these are the two newest topics taught, I think it would be better if you took the quiz on the older ones. Because those have been processed, these are yet to be processed. Since these are the two newest topics. Sir, I won't be present on the 12th of November. Can I take the quiz on another day? Yeah. If you have some emergency, then no problem. Okay. I think you can decide. If you can suggest that maybe it is better if we take the first quiz on genetic algorithms, we can also take that. But I think TOPSIS is... specifically in this class we will do some research works on that, on those topics. The calculations are also easy. I think it is better if you take the quiz on... Sir, we can't hear you properly. Your volume is very low. Okay. Is it clear now? Yes sir, we can hear you. Okay, so I think it will be better if we can just take the quiz on TOPSIS and fuzzy TOPSIS method. Specifically, those methods are easy to calculate and also, we have a plan to do some research work on those topics. So next week, on the 12th of this month, at the beginning of the class, we will have a quiz on TOPSIS and fuzzy TOPSIS methods. So, this is the announcement."
+            },
+            {
+                "timestamps": {
+                    "start": "01:23:42",
+                    "end": "01:24:08"
+                },
+                "segment_description": "The instructor discusses scheduling for the next class, asking students about their availability.",
+                "subtitle": "I will take another class, if you want, if you can, okay? Or is it too much for today?"
+            },
+            {
+                "timestamps": {
+                    "start": "01:24:08",
+                    "end": "01:24:23"
+                },
+                "segment_description": "The instructor proposes having the next class on Friday and asks for student availability.",
+                "subtitle": "Or maybe if you are available, I can take it tomorrow, I mean, Friday? Are you guys available on Friday?"
+            },
+            {
+                "timestamps": {
+                    "start": "01:24:23",
+                    "end": "01:24:50"
+                },
+                "segment_description": "A student and the instructor discuss class schedules and timings, confirming they will decide on the next class time later.",
+                "subtitle": "Sir, we have another class on Friday. Oh, at what time? In the evening. Sir, at 7 PM. Okay, no problem. I will inform you later. Okay?"
+            },
+            {
+                "timestamps": {
+                    "start": "01:30:32",
+                    "end": "01:30:35"
+                },
+                "segment_description": "An administrative pop-up notification appears on the screen to admit a new participant into the online class, briefly interrupting the visual presentation of the lecture.",
+                "subtitle": ""
+            },
+            {
+                "timestamps": {
+                    "start": "01:30:45",
+                    "end": "01:31:01"
+                },
+                "segment_description": "The instructor stops sharing the presentation, revealing the Google Meet interface and a technical warning about screen sharing. This segment involves logistical interaction with students to confirm their understanding before moving on, deviating from the core topic.",
+                "subtitle": "Do you understand the concept of independence and conditional independence? No sir. Yes sir. Thank you."
+            },
+            {
+                "timestamps": {
+                    "start": "02:44:51",
+                    "end": "02:45:06"
+                },
+                "segment_description": "A student interrupts the lecture to ask a question about a technical issue, specifically an invalid Discord link. This is a logistical question and is not related to the topic of Naive Bayes classifiers.",
+                "subtitle": "Sir, I can't join the Discord channel with the link you provided. I emailed you. No sir, you haven't given it yet. It's showing an invalid invitation."
+            },
+            {
+                "timestamps": {
+                    "start": "02:45:06",
+                    "end": "02:45:06"
+                },
+                "segment_description": "The video recording is stopped by the host.",
+                "subtitle": ""
+            }
+        ]
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=Jk94Dqqh53A",
+        "video_topic": "A lecture on Support Vector Machines (SVM), covering the definition, application in classification and regression, and the concepts of hyperplanes, margins, and support vectors.",
+        "irrelevant_segments": [
+            {
+                "timestamps": {
+                    "start": "00:00:00",
+                    "end": "00:00:44"
+                },
+                "segment_description": "The video begins with the user interface of the online meeting platform. The first few seconds are dedicated to starting the screen recording, which is a technical setup task. This is followed by a prolonged period of silence where the first slide of the presentation is shown, but no academic content is delivered as the presenter prepares.",
+                "subtitle": "[Silence and interface sounds]"
+            },
+            {
+                "timestamps": {
+                    "start": "00:31:15",
+                    "end": "00:31:35"
+                },
+                "segment_description": "The presenter navigates away from the presentation slides to the Google Meet interface to check the participant list. There is a brief, non-academic exchange with a student to confirm there are no technical issues before resuming the lecture.",
+                "subtitle": "No sir, no problem. Okay."
+            },
+            {
+                "timestamps": {
+                    "start": "00:32:49",
+                    "end": "00:32:53"
+                },
+                "segment_description": "The lecture is briefly interrupted by an on-screen notification that a new participant wants to join the call. The presenter stops to admit them. This is an administrative action unrelated to the lecture content.",
+                "subtitle": "[Notification Sound] Someone wants to join this call. [Mouse Click]"
+            },
+            {
+                "timestamps": {
+                    "start": "01:06:52",
+                    "end": "01:09:12"
+                },
+                "segment_description": "The instructor stops sharing the presentation, revealing the Google Meet interface. The instructor asks for questions, and a student responds. This is followed by a period of silence and technical adjustments to resume the screen share.",
+                "subtitle": "Okay, any question from your side? No sir."
+            },
+            {
+                "timestamps": {
+                    "start": "01:15:33",
+                    "end": "01:18:23"
+                },
+                "segment_description": "The presentation is stopped, showing the Google Meet participant grid. The instructor's screen briefly shows a personal email inbox before navigating back to the presentation file. This segment consists of technical adjustments rather than educational content.",
+                "subtitle": ""
+            },
+            {
+                "timestamps": {
+                    "start": "01:27:35",
+                    "end": "01:28:34"
+                },
+                "segment_description": "The instructor concludes the lecture by stopping the screen share and asking for final questions. Students respond that they have no questions, marking the end of the session.",
+                "subtitle": "Okay, any question from your side? No, sir. No question sir."
+            },
+            {
+                "timestamps": {
+                    "start": "01:13:34",
+                    "end": "01:13:53"
+                },
+                "segment_description": "The scene shows a group of participants in a virtual meeting, with the main speaker's presentation on screen. A student then asks a question about their project, leading to a discussion that is off-topic from the main lecture.",
+                "subtitle": "No, sir. It's understandable. Thank you."
+            },
+            {
+                "timestamps": {
+                    "start": "01:13:53",
+                    "end": "01:14:21"
+                },
+                "segment_description": "The instructor addresses a student's project-related query, providing guidance and clarification. This segment deviates from the main lecture topic to focus on administrative and project-specific details, concluding as the instructor stops the recording.",
+                "subtitle": "Okay then. The recording will be saved in Md. Golam Rabiul Alam's Google Drive. A link to the recording will be added to the event, and everyone in the guest list will be given access. Stop recording? Stop recording."
+            },
+            {
+                "timestamps": {
+                    "start": "01:14:21",
+                    "end": "01:14:51"
+                },
+                "segment_description": "The video shows a virtual classroom setting where students are interacting with the instructor after a lecture. One student asks for permission for others to leave, while another student requests to discuss a project after the class, leading to a shift from academic content to logistical arrangements.",
+                "subtitle": "Sir, can the others... Hello. Hello. Hello. Hello. Hello, I can hear you. Sir, I also wanted to discuss the project. After the class, I and my groupmates will stay for a bit to talk to you about the project. Okay, no problem. Okay, sir."
+            },
+            {
+                "timestamps": {
+                    "start": "01:14:51",
+                    "end": "01:15:37"
+                },
+                "segment_description": "The video shows an online class concluding, with students asking the instructor project-related questions. The instructor addresses their queries, and then the recording is stopped, marking the end of the session.",
+                "subtitle": "Hello, sir. The others... Hello. Hello. Hello. Hello. Hello, I can hear you. Sir, I also wanted to discuss the project. Your video call is being recorded. When the recording is finished, it will be saved in the organizer's 'Meet Recordings' folder in Google Drive. Stop recording. Stop recording this meeting? The recording will be saved in Md. Golam Rabiul Alam's Google Drive. A link to the recording will be added to the event, and everyone in the guest list will be given access. Stop recording. I was saying..."
+            }
+        ]
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=sy9UDDDvJY4",
+        "video_topic": "An educational lecture on the concept, benefits, and implementation of dummy headed linked lists in data structures.",
+        "irrelevant_segments": [
+            {
+                "timestamps": {
+                    "start": "00:28:27",
+                    "end": "00:39:01"
+                },
+                "segment_description": "The instructor's screen freezes and goes black, abruptly ending the lecture. This is followed by a period of silence, after which students are heard discussing the technical problem and whether the class has concluded. The remainder of the video is silent with inactive participant icons on the screen.",
+                "subtitle": "Did the sir leave? I see everyone is leaving the meet. I don't know. Did the sir say anything about the class being over? He was about to say something, then everyone got disconnected. I thought so too. I see everyone has left. Okay. The class is being recorded. Oh, okay. Let's message sir on Slack and see what he says."
+            }
+        ]
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=J1WJSJVzTKE",
+        "video_topic": "Subnetting and IP Addressing in Computer Networks",
+        "irrelevant_segments": [
+            {
+                "timestamps": {
+                    "start": "00:00:01",
+                    "end": "00:00:20"
+                },
+                "segment_description": "Administrative discussion about repeating previous classes due to technical issues and outlining the plan for the current session.",
+                "subtitle": "So, in the last two classes, there were a lot of problems with the internet, from subnetting and then this static routing. So, today I will repeat those two classes completely. Okay? So, this class will be a bit long. I will give a break in the middle. So, after finishing subnetting, let's say I took a 10-15 minute break. Then I will do the static routing again."
+            },
+            {
+                "timestamps": {
+                    "start": "00:00:23",
+                    "end": "00:00:32"
+                },
+                "segment_description": "The instructor asks students if they have any prerequisite questions before starting the main lesson, which is a logistical check rather than core content.",
+                "subtitle": "Now, to start subnetting, does anyone have any questions about IP addressing? Alright, so I am assuming you know everything about IP addressing."
+            },
+            {
+                "timestamps": {
+                    "start": "00:01:52",
+                    "end": "00:01:56"
+                },
+                "segment_description": "The instructor is interrupted by background noise and repeatedly has to ask a student named Asif to mute their microphone, which is a classroom management issue.",
+                "subtitle": "Asif, mute yourself."
+            },
+            {
+                "timestamps": {
+                    "start": "00:22:23",
+                    "end": "00:27:35"
+                },
+                "segment_description": "A long, silent pause with a static whiteboard and no new information being presented.",
+                "subtitle": "[Silence]"
+            },
+            {
+                "timestamps": {
+                    "start": "00:29:26",
+                    "end": "00:31:31"
+                },
+                "segment_description": "A significant, extended pause with no audio or on-screen activity. The whiteboard content is static, and no teaching is occurring.",
+                "subtitle": "[Silence]"
+            },
+            {
+                "timestamps": {
+                    "start": "00:31:37",
+                    "end": "00:32:07"
+                },
+                "segment_description": "A long, silent pause where no educational content is being delivered. The screen is static, and there is no audio.",
+                "subtitle": "[Silence]"
+            }
+        ]
+    }
+]
