@@ -104,7 +104,7 @@ TOPIC_E = ['Law (Pre-Law tracks)',
 def generate(prompt):
     global TEMP
     client = OpenAI(
-        api_key="AIzaSyB-5Cx4p8yoqUnhctGRUIg1fR2bcaugog0", 
+        api_key="", 
         base_url="https://generativelanguage.googleapis.com/v1beta/openai/"
     )
     msg = [
