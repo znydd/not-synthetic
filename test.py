@@ -8,7 +8,8 @@ def get_msg(info):
         {"role":"user",
         "content":[
                 {"type":"text",
-                "text":f"""You are an AI assistant specializing in educational content analysis. Your task is to analyze segments from educational videos with 3 fields
+                "text":f"""You are an AI assistant specializing in educational content analysis.
+                Your task is to analyze segments from educational videos with 3 fields
     video_topic: The overall subject of the entire video lecture.
     segment_description: A brief summary of the actions and content within the specific video clip.
     subtitle: The verbatim transcription of the audio from the segment.
@@ -26,8 +27,9 @@ def llm_res(fields):
     client = OpenAI(base_url="http://127.0.0.1:8000/v1", api_key="not-needed")
     response = client.chat.completions.create(model="gemma-3-1b-it-BF16.gguf", messages=get_msg(fields),stream=False)
     llm_output = response.choices[0].message.content
-    pattern = r"<think>.*?</think>"
-    return re.sub(pattern, "", llm_output, flags=re.DOTALL).strip()
+    # pattern = r"<think>.*?</think>"
+    # return re.sub(pattern, "", llm_output, flags=re.DOTALL).strip()
+    return llm_output
 
 def main():
     with open("data/relevant_full.json", "r", encoding='utf-8') as f:
